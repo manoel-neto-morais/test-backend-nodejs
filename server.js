@@ -20,5 +20,5 @@ requireDir('./src/models')
 //rotas: estamos definindo uma rota primaria chamada /api a partir daí ele redireciona para o arquivo routes onde estarão as outras rotas
 app.use('/api/', require('./src/routes'))
 
-
+//porta escolhida: 3001
 app.listen(3001)
