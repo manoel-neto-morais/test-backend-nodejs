@@ -1,7 +1,7 @@
 <h1>Backend Analyst Candidate Testing</h1>
 
 
-An active mongodb instance is required to receive the creation of the 'apianotaai' collection
+*An active mongodb instance is required to receive the creation of the 'apianotaai' collection or change the connection string in server.js*
 
 
 ```sh
