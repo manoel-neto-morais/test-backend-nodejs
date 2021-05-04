@@ -10,7 +10,7 @@ $ npm install
 
 Run
 ```sh
-$ npm start
+$ npm run dev
 ```
 
 ## Credits
